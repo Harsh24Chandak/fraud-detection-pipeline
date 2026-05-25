@@ -1,0 +1,4 @@
+model,recall,precision,accuracy
+Dummy (always legit),0.0,0.0,50.8
+Logistic Regression,78.5,82.3,91.2
+Random Forest + SMOTE,96.95,100.0,98.5

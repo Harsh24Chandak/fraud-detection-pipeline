@@ -1,0 +1,13 @@
+amount_range,result_label,count
+$0-100,False Negative,11
+$0-100,True Negative,403
+$0-100,True Positive,324
+$100-500,False Negative,1
+$100-500,True Negative,84
+$100-500,True Positive,94
+$500-1K,False Negative,3
+$500-1K,True Negative,9
+$500-1K,True Positive,23
+$1K-2K,True Negative,6
+$1K-2K,True Positive,8
+$2K-5K,True Positive,1

@@ -1,0 +1,9 @@
+metric,value
+Total Transactions,1000.0
+Actual Fraud Cases,492.0
+Fraud Detected,477.0
+Fraud Missed,15.0
+False Alarms,0.0
+Recall %,96.95
+Precision %,100.0
+Accuracy %,98.5

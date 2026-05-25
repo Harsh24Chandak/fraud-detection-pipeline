@@ -1,0 +1,5 @@
+actual,predicted,count,label
+Fraud,Fraud (Caught),477,True Positive
+Fraud,Legit (Missed),15,False Negative
+Legit,Fraud (False Alarm),0,False Positive
+Legit,Legit (Correct),508,True Negative

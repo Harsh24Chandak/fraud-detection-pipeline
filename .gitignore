@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyd
+data/creditcard.csv
+logs/
+models/*.pkl
+notebooks/.ipynb_checkpoints/
+notebooks/Untitled*.ipynb
+src/__pycache__/
+*.db

@@ -1,0 +1,4 @@
+severity,alert_count,avg_prob,total_amount
+HIGH,1278,0.99,142378.92
+LOW,36,0.62,8740.29
+MEDIUM,117,0.81,23065.38
