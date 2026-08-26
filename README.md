@@ -184,5 +184,5 @@ catches 97 out of every 100 fraud cases.
 
 **Harsh Chandak**  
 Computer Engineering — KIT's College of Engineering, Kolhapur  
-[LinkedIn](https://linkedin.com/in/your-profile) · 
+[LinkedIn](linkedin.com/in/harsh-chandak-170b60288) · 
 [GitHub](https://github.com/Harsh24Chandak)
