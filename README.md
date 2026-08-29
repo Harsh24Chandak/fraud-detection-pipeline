@@ -28,8 +28,8 @@ This project solves that with:
 |---|---|
 | Dataset | 284,807 transactions |
 | Fraud Rate | 0.17% (492 cases) |
-| Recall | **96.95%** |
-| Precision | **100%** |
+| Recall | **84%** |
+| Precision | **85%** |
 | Frauds Caught | 477 / 492 |
 | Frauds Missed | 15 |
 | Pipeline Speed | 1,000 txns/sec |
@@ -170,7 +170,7 @@ docker-compose up
 The model comparison chart tells the whole story:
 
 ```
-Random Forest + SMOTE  → Recall: 97%  Precision: 100%
+Random Forest + SMOTE  → Recall: 84%  Precision: 85%
 Logistic Regression    → Recall: 79%  Precision: 82%
 Dummy (always legit)   → Recall: 0%   Precision: 0%
 ```
